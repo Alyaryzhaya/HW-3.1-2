@@ -6,5 +6,7 @@ public class Main {
 
         int bonusMile = ticket / perMile;
         System.out.println(bonusMile);
+
+        // rename project
     }
 }
